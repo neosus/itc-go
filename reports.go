@@ -32,7 +32,7 @@ const (
 	SalesReportTypeFilter       = "filter[reportType]"
 	SalesReportType             = "SALES"
 	PreOrderReportType          = "PRE_ORDER"
-	NewStandReportType          = "NEWSTAND"
+	NewStandReportType          = "NEWSSTAND"
 	SubscriptionReportType      = "SUBSCRIPTION"
 	SubscriptionEventReportType = "SUBSCRIPTION_EVENT"
 	SubscriberReportType        = "SUBSCRIBER"
